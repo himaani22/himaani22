@@ -1,8 +1,7 @@
-# 💫 About Me:
+                        Hii I'M Himani 
 🔭 I’m currently working on A Medical Emergency Alert Web App (voice alerts, SOS, doctor panel)<br>👯 I’m looking to collaborate on Projects that involve HTML, CSS, JavaScript, and Node.js<br>🌱 I’m currently learning Full-Stack Web Development (mainly Node.js)<br>      and Practicing DSA for placements<br>⚡ Fun fact : I started coding recently, and I’m already better at debugging than I am at math.😅<br><br>
 
-
-## 🌐 Socials:
+Connect Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himani-sahu-261099250?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himani8809@gmail.com) 
 
 # 💻 Tech Stack:
