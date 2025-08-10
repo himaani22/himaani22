@@ -1,5 +1,5 @@
 
-#👋                       Hie I'm Himani Sahu
+# 👋                       Hie I'm Himani Sahu
 🚀 A passionate developer constantly learning and building.<br><br>💻 Currently focusing on Full stack Web development, and DSA (C++)<br><br>⚡ Fun fact: I use tabs over spaces
 
 
