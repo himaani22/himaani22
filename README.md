@@ -1,10 +1,14 @@
 
-# 👋                       Hie I'm Himani Sahu
+# <h1 align="center"> 👋                       Hie I'm Himani Sahu </h1>
 🚀 A passionate developer constantly learning and building.<br><br>💻 Currently focusing on Full stack Web development, and DSA (C++)<br><br>⚡ Fun fact: I use tabs over spaces
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himaanee._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himani-sahu-261099250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himani8809@gmail.com ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himani-sahu-261099250)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/himaanee._)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himani8809@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://himani.showfolio.app)
+ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himaani22&label=Profile%20views&color=0e75b6&style=flat" alt="himaani22" /> </p> 
 
